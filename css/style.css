@@ -1,0 +1,13 @@
+.container{
+    margin: 50px;
+}
+
+.nav, label, input{
+    display: block;
+}
+
+img {
+    margin: 0px 20px 20px 0px;
+}
+
+#main {border-left:thin solid black} 
